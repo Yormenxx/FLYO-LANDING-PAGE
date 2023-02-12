@@ -2,7 +2,7 @@
 
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome.! 👋
 
 Thanks for checking out this front-end coding challenge.
 
